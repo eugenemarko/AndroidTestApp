@@ -1,7 +1,6 @@
 package com.eugenemarko.testapp;
 
 import android.app.Activity;
-import android.app.LauncherActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
