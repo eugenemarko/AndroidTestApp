@@ -14,5 +14,9 @@
     <string name="action_share">Share</string>
     <string name="action_reply">Reply</string>
     <string name="action_notify">Test notification</string>
+    <string name="button_location">Get Location</string>
+    <string name="button_sendfile">Send File via NFC</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_button">Show on Map</string>
 
 </resources>
